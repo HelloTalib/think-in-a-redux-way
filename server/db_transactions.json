@@ -3,26 +3,14 @@
     {
       "name": "Salary",
       "type": "income",
-      "amount": 60000,
+      "amount": 89000,
       "id": 1
-    },
-    {
-      "name": "Food",
-      "type": "expense",
-      "amount": 6000,
-      "id": 2
     },
     {
       "name": "Food",
       "type": "expense",
       "amount": 8000,
       "id": 3
-    },
-    {
-      "name": "fwf",
-      "type": "income",
-      "amount": 6,
-      "id": 4
     }
   ]
 }
